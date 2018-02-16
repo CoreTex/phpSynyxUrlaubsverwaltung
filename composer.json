@@ -3,7 +3,7 @@
     "description": "A PHP wrapper for the synyx Urlaubsverwaltung API",
     "homepage": "https://github.com/CoreTex/phpSynyxUrlaubsverwaltung",
     "license": "GPL-3.0-or-later",
-    "stability": 
+    "stability": "stable",
     "keywords": ["http", "curl", "rest", "restful", "api", "synyx", "urlaubsverwaltung"],
     "version": "1.0",
     "authors": [
