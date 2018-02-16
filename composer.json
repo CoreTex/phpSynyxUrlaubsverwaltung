@@ -1,5 +1,5 @@
 {
-    "name": "CoreTex/phpSynyxUrlaubsverwaltung",
+    "name": "coretex/php-synyx-urlaubsverwaltung",
     "description": "A PHP wrapper for the synyx Urlaubsverwaltung API",
     "homepage": "https://github.com/CoreTex/phpSynyxUrlaubsverwaltung",
     "license": "GPL-3.0-or-later",
