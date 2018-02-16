@@ -1,0 +1,25 @@
+{
+    "name": "CoreTex/phpSynyxUrlaubsverwaltung",
+    "description": "A PHP wrapper for the synyx Urlaubsverwaltung API",
+    "homepage": "https://github.com/CoreTex/phpSynyxUrlaubsverwaltung",
+    "license": "GNU GPL v3",
+    "keywords": ["http", "curl", "rest", "restful", "api", "synyx", "urlaubsverwaltung"],
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Eric Dorr",
+            "email": "me@mail.ericdorr.de",
+            "homepage": "http://www.ericdorr.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "ext-curl": "*",
+        "nategood/httpful": "^0.2.20"
+    },
+    "autoload": {
+        "psr-0": {
+            "phpSynyxUrlaubsverwaltung": "src/"
+        }
+    }
+}
